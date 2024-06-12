@@ -1,0 +1,22 @@
+.Pokedex {
+    text-align: center;
+  }
+  
+  .Pokedex-title {
+    color: darkgray;
+  }
+  
+  .Pokedex-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  
+  .Pokedex-winner {
+    font-weight: bold;
+    color: orangered;
+  }
+
+  body {
+    background-image: url(https://wallpapers.com/images/hd/pokemon-stadium-1920-x-1080-wallpaper-dqqp686gjn57ka0u.jpg);
+  }
